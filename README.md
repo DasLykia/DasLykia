@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lykia</h1>
 
 <p align="center">
-  <b>Informatics Student @ HTBLA Austria 🇦🇹</b><br/>
+  <b>Informatics Student @ HTBLA 🇦🇹</b><br/>
   <i>Working mainly with Java and learning my way through software development</i>
 </p>
 
