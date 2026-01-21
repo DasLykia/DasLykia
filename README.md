@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lykia</h1>
+<h1 align="left">Hi 👋, I'm Lykia</h1>
 
 <p align="center">
   <b>Informatics Student @ HTBLA 🇦🇹</b><br/>
