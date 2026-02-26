@@ -107,7 +107,7 @@
 
 ## `// Projects`
 
-### 🎙️ Voice Streak App
+### 🎙️ Resona
 A desktop application designed to help vocalists build a consistent training habit. It tracks daily streaks, logs session duration, handles audio recording, and includes **seamless auto-updates powered by Velopack**.
 <br>
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
